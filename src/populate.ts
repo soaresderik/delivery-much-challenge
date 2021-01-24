@@ -1,5 +1,4 @@
 /* eslint-disable no-console */
-// import { knex } from "./config"
 import csvtojson from 'csvtojson';
 import { knex } from './config';
 
